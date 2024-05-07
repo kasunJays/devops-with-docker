@@ -1,0 +1,3 @@
+1) First need to create a text file called time.txt (Windows user)
+
+2) docker run -v "$(pwd)/time.txt:/usr/src/app/text.log" devopsdockeruh/simple-web-service:alpine
