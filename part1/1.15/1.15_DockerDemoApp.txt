@@ -1,0 +1,8 @@
+Docker image repo = https://hub.docker.com/repository/docker/kasunjay87/docker-demo/general
+
+Instructions on how to run
+
+1) pull the latest image from above mentioned repo.
+2) run this command in a CLI -> docker run -p ${your port}:8080 kasunjay87/docker-demo
+3) go to your browser and http://localhost:${your port}/message
+You will see Hello User text in the browser.
