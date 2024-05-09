@@ -1,0 +1,9 @@
+I deployed the app to AWS ec2 instance
+
+Copied my source directory with the Dockerfile to EC2 instance. 
+
+Created a docker image at the EC2 instance.
+
+Run the docker container with that image.
+
+Link - http://54.225.53.98/message
